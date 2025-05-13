@@ -78,6 +78,5 @@ select *
     from emp
     order by deptno asc, sal desc, empno desc;
     
-    --ㄴㄴㄴㄴ
 
 
